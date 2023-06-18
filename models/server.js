@@ -9,7 +9,7 @@ class Server {
         this.usuariosPath = '/api/usuarios';
         //Middelware
         this.middlewares();
-        //Rutas de la aplicacion
+        //Rutas de la aplicacion.
         this.routes();
     }
     
